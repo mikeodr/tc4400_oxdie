@@ -1,0 +1,10 @@
+{
+    "cSpell.ignorePaths": [
+        ".vscode/settings.json",
+        "Cargo.*"
+    ],
+    "cSpell.words": [
+        "openmetrics"
+    ],
+    "editor.insertSpaces": true,
+}
